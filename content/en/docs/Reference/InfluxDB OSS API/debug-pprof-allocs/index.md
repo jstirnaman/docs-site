@@ -1,0 +1,1 @@
+{"name":"/debug/pprof/allocs","describes":["/debug/pprof/allocs"],"title":"/debug/pprof/allocs\nInfluxDB OSS API Service","tags":["debug-pprof","allocs"],"source":"static/openapi/influxdb-oss/influxdb-oss-debug-pprof-allocs.yaml","staticFilePath":"/openapi/influxdb-oss/influxdb-oss-debug-pprof-allocs.yaml","type":"article"}

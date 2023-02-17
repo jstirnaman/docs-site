@@ -1,0 +1,1 @@
+{"name":"/api/v2/signin","describes":["/api/v2/signin"],"title":"/api/v2/signin\nInfluxDB Cloud API Service","tags":["api-v2","signin"],"source":"static/openapi/influxdb-cloud/influxdb-cloud-api-v2-signin.yaml","staticFilePath":"/openapi/influxdb-cloud/influxdb-cloud-api-v2-signin.yaml","type":"article"}

@@ -1,0 +1,1 @@
+{"name":"/api/v2/stacks","describes":["/api/v2/stacks","/api/v2/stacks/{stack_id}","/api/v2/stacks/{stack_id}/uninstall"],"title":"/api/v2/stacks\nInfluxDB OSS API Service","tags":["api-v2","stacks"],"source":"static/openapi/influxdb-oss/influxdb-oss-api-v2-stacks.yaml","staticFilePath":"/openapi/influxdb-oss/influxdb-oss-api-v2-stacks.yaml","type":"article"}

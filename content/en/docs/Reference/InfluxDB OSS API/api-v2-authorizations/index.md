@@ -1,0 +1,1 @@
+{"name":"/api/v2/authorizations","describes":["/api/v2/authorizations","/api/v2/authorizations/{authID}"],"title":"/api/v2/authorizations\nInfluxDB OSS API Service","tags":["api-v2","authorizations"],"source":"static/openapi/influxdb-oss/influxdb-oss-api-v2-authorizations.yaml","staticFilePath":"/openapi/influxdb-oss/influxdb-oss-api-v2-authorizations.yaml","type":"article"}

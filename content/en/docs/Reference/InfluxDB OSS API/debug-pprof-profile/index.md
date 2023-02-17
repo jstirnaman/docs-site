@@ -1,0 +1,1 @@
+{"name":"/debug/pprof/profile","describes":["/debug/pprof/profile"],"title":"/debug/pprof/profile\nInfluxDB OSS API Service","tags":["debug-pprof","profile"],"source":"static/openapi/influxdb-oss/influxdb-oss-debug-pprof-profile.yaml","staticFilePath":"/openapi/influxdb-oss/influxdb-oss-debug-pprof-profile.yaml","type":"article"}

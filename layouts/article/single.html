@@ -1,0 +1,29 @@
+{{ define "main" }}
+<main class="col-12 col-md-9 col-xl-8" role="main">
+  <script type="module" src="https://unpkg.com/rapidoc/dist/rapidoc-min.js"></script>
+  <h2>{{ .Params.title }}</h2>
+  <h2>{{ .Params.parent }}</h2>
+  
+  <rapi-doc
+    id="api-doc"
+    theme = "dark"
+    data-openapi-doc = "{{ .Params.staticFilePath }}"
+    regular-font="Open Sans" mono-font="Roboto Mono" show-header="false"
+    bg-color="#ffffff" text-color="" nav-bg-color="#fafafa" nav-text-color=""
+    nav-hover-bg-color="#ffebea" nav-hover-text-color="#9b0700"
+    nav-accent-color="" primary-color="#F63C41" theme="light" 
+  > </rapi-doc>
+  <script>
+    window.addEventListener('DOMContentLoaded', (event) => {
+      const rapidocEl = document.getElementById('api-doc');
+      rapidocEl.addEventListener('spec-loaded', (e) => {
+        rapidocEl.setApiServer(globalThis.origin + "/api");
+        // Sets the server to http://localhost:8080/api
+        // you must have defined this server in your spec
+      });
+      const spec = rapidocEl.dataset.openapiDoc;
+      rapidocEl.loadSpec(spec);
+    });
+  </script>
+</main>
+{{ end }}

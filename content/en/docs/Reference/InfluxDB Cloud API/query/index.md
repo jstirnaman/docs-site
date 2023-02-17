@@ -1,0 +1,1 @@
+{"name":"/query","describes":["/query"],"title":"/query\nInfluxDB Cloud API Service","tags":["","query"],"source":"static/openapi/influxdb-cloud/influxdb-cloud-query.yaml","staticFilePath":"/openapi/influxdb-cloud/influxdb-cloud-query.yaml","type":"article"}
