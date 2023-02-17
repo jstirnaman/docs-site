@@ -1,0 +1,10 @@
+plugins:
+  - ./openapi-plugins/plugins/docs-plugin.js
+extends:
+  - recommended
+  - docs/all
+apis:
+  cloud:
+    root: ../influxdata-openapi/contracts/ref/cloud.yml
+  oss:
+    root: ../influxdata-openapi/contracts/ref/oss.yml

@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "name": "openapi-plugins",
+  "version": "1.0.0",
+  "description": "Demo InfluxDB API documentation",
+  "license": "MIT",
+  "dependencies": {
+    "js-yaml": "^4.1.0"
+  }
+}
