@@ -1,5 +1,5 @@
 baseURL = "/"
-title = "Goldydocs"
+title = "Jason Stirnaman's Docs Playground"
 
 # Language settings
 contentDir = "content/en"
@@ -60,8 +60,8 @@ id = "UA-00000000-0"
 
 [languages]
 [languages.en]
-title = "Goldydocs"
-description = "A Docsy example site"
+title = "jstirnaman docs"
+description = "Jason Stirnaman's docs playground"
 languageName ="English"
 # Weight used for sorting.
 weight = 1
@@ -210,3 +210,32 @@ enable = false
   [[module.imports]]
     path = "github.com/google/docsy/dependencies"
     disable = false
+
+[deployment]
+order = [".jpg$", ".gif$"]
+
+[[deployment.targets]]
+name = "aws-deployment"
+URL = "s3://jasons-docs-portfolio?region=us-east-1"
+cloudFrontDistributionID = "EJY10EH77JD3Z"
+
+[[deployment.matchers]]
+# Cache static assets for 1 year.
+pattern = "^.+\\.(js|css|svg|ttf)$"
+cacheControl = "max-age=31536000, no-transform, public"
+gzip = true
+
+[[deployment.matchers]]
+pattern = "^.+\\.(png|jpg)$"
+cacheControl = "max-age=31536000, no-transform, public"
+gzip = false
+
+[[deployment.matchers]]
+# Set custom content type for /sitemap.xml
+pattern = "^sitemap\\.xml$"
+contentType = "application/xml"
+gzip = true
+
+[[deployment.matchers]]
+pattern = "^.+\\.(html|xml|json)$"
+gzip = true
