@@ -1,5 +1,5 @@
 baseURL = "/"
-title = "Jason Stirnaman's Docs Playground"
+title = "Send the Docs!"
 
 # Language settings
 contentDir = "content/en"
@@ -60,8 +60,8 @@ id = "UA-00000000-0"
 
 [languages]
 [languages.en]
-title = "jstirnaman docs"
-description = "Jason Stirnaman's docs playground"
+title = "Send the Docs!"
+description = "Send the Docs! My docs-as-code playground"
 languageName ="English"
 # Weight used for sorting.
 weight = 1
