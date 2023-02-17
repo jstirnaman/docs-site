@@ -36,7 +36,6 @@ const build = async (add, force) => {
   if (dataFiles.length < 1) return console.log('No data files');
   for (let i in dataFiles) {
     let data = converToObject(dataFiles[i]);
-    console.log(data)
     let pages = config.pages ? data[config.pages] : data;
     for (let j in pages) {
       if (!pages[j].path) return console.log('Error: Pages must include path!');
