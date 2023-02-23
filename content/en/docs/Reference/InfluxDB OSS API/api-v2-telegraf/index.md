@@ -1,1 +1,0 @@
-{"name":"/api/v2/telegraf","describes":["/api/v2/telegraf/plugins"],"title":"/api/v2/telegraf\nInfluxDB OSS API Service","tags":["api-v2","telegraf"],"source":"static/openapi/influxdb-oss/influxdb-oss-api-v2-telegraf.yaml","staticFilePath":"/openapi/influxdb-oss/influxdb-oss-api-v2-telegraf.yaml","type":"article"}

@@ -1,1 +1,0 @@
-{"name":"/api/v2/resources","describes":["/api/v2/resources"],"title":"/api/v2/resources\nInfluxDB OSS API Service","tags":["api-v2","resources"],"source":"static/openapi/influxdb-oss/influxdb-oss-api-v2-resources.yaml","staticFilePath":"/openapi/influxdb-oss/influxdb-oss-api-v2-resources.yaml","type":"article"}

@@ -1,1 +1,0 @@
-{"name":"/ping","describes":["/ping"],"title":"/ping\nInfluxDB Cloud API Service","tags":["","ping"],"source":"static/openapi/influxdb-cloud/influxdb-cloud-ping.yaml","staticFilePath":"/openapi/influxdb-cloud/influxdb-cloud-ping.yaml","type":"article"}

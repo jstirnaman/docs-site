@@ -1,1 +1,0 @@
-{"name":"/api/v2/me","describes":["/api/v2/me","/api/v2/me/password"],"title":"/api/v2/me\nInfluxDB OSS API Service","tags":["api-v2","me"],"source":"static/openapi/influxdb-oss/influxdb-oss-api-v2-me.yaml","staticFilePath":"/openapi/influxdb-oss/influxdb-oss-api-v2-me.yaml","type":"article"}

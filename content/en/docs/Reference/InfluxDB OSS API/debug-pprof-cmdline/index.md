@@ -1,1 +1,0 @@
-{"name":"/debug/pprof/cmdline","describes":["/debug/pprof/cmdline"],"title":"/debug/pprof/cmdline\nInfluxDB OSS API Service","tags":["debug-pprof","cmdline"],"source":"static/openapi/influxdb-oss/influxdb-oss-debug-pprof-cmdline.yaml","staticFilePath":"/openapi/influxdb-oss/influxdb-oss-debug-pprof-cmdline.yaml","type":"article"}

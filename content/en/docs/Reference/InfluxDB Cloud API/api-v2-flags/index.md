@@ -1,1 +1,0 @@
-{"name":"/api/v2/flags","describes":["/api/v2/flags"],"title":"/api/v2/flags\nInfluxDB Cloud API Service","tags":["api-v2","flags"],"source":"static/openapi/influxdb-cloud/influxdb-cloud-api-v2-flags.yaml","staticFilePath":"/openapi/influxdb-cloud/influxdb-cloud-api-v2-flags.yaml","type":"article"}

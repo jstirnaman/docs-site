@@ -1,1 +1,0 @@
-{"name":"/metrics","describes":["/metrics"],"title":"/metrics\nInfluxDB OSS API Service","tags":["","metrics"],"source":"static/openapi/influxdb-oss/influxdb-oss-metrics.yaml","staticFilePath":"/openapi/influxdb-oss/influxdb-oss-metrics.yaml","type":"article"}

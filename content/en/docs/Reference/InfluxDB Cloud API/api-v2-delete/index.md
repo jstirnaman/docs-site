@@ -1,1 +1,0 @@
-{"name":"/api/v2/delete","describes":["/api/v2/delete"],"title":"/api/v2/delete\nInfluxDB Cloud API Service","tags":["api-v2","delete"],"source":"static/openapi/influxdb-cloud/influxdb-cloud-api-v2-delete.yaml","staticFilePath":"/openapi/influxdb-cloud/influxdb-cloud-api-v2-delete.yaml","type":"article"}

@@ -1,1 +1,0 @@
-{"name":"/api/v2/dbrps","describes":["/api/v2/dbrps","/api/v2/dbrps/{dbrpID}"],"title":"/api/v2/dbrps\nInfluxDB Cloud API Service","tags":["api-v2","dbrps"],"source":"static/openapi/influxdb-cloud/influxdb-cloud-api-v2-dbrps.yaml","staticFilePath":"/openapi/influxdb-cloud/influxdb-cloud-api-v2-dbrps.yaml","type":"article"}

@@ -1,1 +1,0 @@
-{"name":"/api/v2/maps","describes":["/api/v2/maps/mapToken"],"title":"/api/v2/maps\nInfluxDB Cloud API Service","tags":["api-v2","maps"],"source":"static/openapi/influxdb-cloud/influxdb-cloud-api-v2-maps.yaml","staticFilePath":"/openapi/influxdb-cloud/influxdb-cloud-api-v2-maps.yaml","type":"article"}

@@ -1,1 +1,0 @@
-{"name":"/ping","describes":["/ping"],"title":"/ping\nInfluxDB OSS API Service","tags":["","ping"],"source":"static/openapi/influxdb-oss/influxdb-oss-ping.yaml","staticFilePath":"/openapi/influxdb-oss/influxdb-oss-ping.yaml","type":"article"}

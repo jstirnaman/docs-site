@@ -1,1 +1,0 @@
-{"name":"/api/v2/setup","describes":["/api/v2/setup","/api/v2/setup/user"],"title":"/api/v2/setup\nInfluxDB Cloud API Service","tags":["api-v2","setup"],"source":"static/openapi/influxdb-cloud/influxdb-cloud-api-v2-setup.yaml","staticFilePath":"/openapi/influxdb-cloud/influxdb-cloud-api-v2-setup.yaml","type":"article"}

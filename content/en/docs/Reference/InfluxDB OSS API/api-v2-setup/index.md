@@ -1,1 +1,0 @@
-{"name":"/api/v2/setup","describes":["/api/v2/setup"],"title":"/api/v2/setup\nInfluxDB OSS API Service","tags":["api-v2","setup"],"source":"static/openapi/influxdb-oss/influxdb-oss-api-v2-setup.yaml","staticFilePath":"/openapi/influxdb-oss/influxdb-oss-api-v2-setup.yaml","type":"article"}

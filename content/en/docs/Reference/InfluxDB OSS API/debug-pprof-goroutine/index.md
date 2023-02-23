@@ -1,1 +1,0 @@
-{"name":"/debug/pprof/goroutine","describes":["/debug/pprof/goroutine"],"title":"/debug/pprof/goroutine\nInfluxDB OSS API Service","tags":["debug-pprof","goroutine"],"source":"static/openapi/influxdb-oss/influxdb-oss-debug-pprof-goroutine.yaml","staticFilePath":"/openapi/influxdb-oss/influxdb-oss-debug-pprof-goroutine.yaml","type":"article"}

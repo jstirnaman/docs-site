@@ -1,1 +1,0 @@
-{"name":"/health","describes":["/health"],"title":"/health\nInfluxDB OSS API Service","tags":["","health"],"source":"static/openapi/influxdb-oss/influxdb-oss-health.yaml","staticFilePath":"/openapi/influxdb-oss/influxdb-oss-health.yaml","type":"article"}
