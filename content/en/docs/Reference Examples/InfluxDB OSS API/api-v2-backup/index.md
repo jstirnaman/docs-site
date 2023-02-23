@@ -1,0 +1,1 @@
+{"name":"/api/v2/backup","describes":["/api/v2/backup/kv","/api/v2/backup/metadata","/api/v2/backup/shards/{shardID}"],"title":"/api/v2/backup\nInfluxDB OSS API Service","tags":["api-v2","backup"],"source":"static/openapi/influxdb-oss/influxdb-oss-api-v2-backup.yaml","staticFilePath":"/openapi/influxdb-oss/influxdb-oss-api-v2-backup.yaml","type":"article"}

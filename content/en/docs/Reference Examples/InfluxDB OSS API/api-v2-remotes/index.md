@@ -1,0 +1,1 @@
+{"name":"/api/v2/remotes","describes":["/api/v2/remotes","/api/v2/remotes/{remoteID}"],"title":"/api/v2/remotes\nInfluxDB OSS API Service","tags":["api-v2","remotes"],"source":"static/openapi/influxdb-oss/influxdb-oss-api-v2-remotes.yaml","staticFilePath":"/openapi/influxdb-oss/influxdb-oss-api-v2-remotes.yaml","type":"article"}

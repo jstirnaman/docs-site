@@ -1,0 +1,1 @@
+{"name":"/api/v2/write","describes":["/api/v2/write"],"title":"/api/v2/write\nInfluxDB OSS API Service","tags":["api-v2","write"],"source":"static/openapi/influxdb-oss/influxdb-oss-api-v2-write.yaml","staticFilePath":"/openapi/influxdb-oss/influxdb-oss-api-v2-write.yaml","type":"article"}

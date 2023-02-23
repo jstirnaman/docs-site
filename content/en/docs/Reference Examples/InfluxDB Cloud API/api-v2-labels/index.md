@@ -1,0 +1,1 @@
+{"name":"/api/v2/labels","describes":["/api/v2/labels","/api/v2/labels/{labelID}"],"title":"/api/v2/labels\nInfluxDB Cloud API Service","tags":["api-v2","labels"],"source":"static/openapi/influxdb-cloud/influxdb-cloud-api-v2-labels.yaml","staticFilePath":"/openapi/influxdb-cloud/influxdb-cloud-api-v2-labels.yaml","type":"article"}

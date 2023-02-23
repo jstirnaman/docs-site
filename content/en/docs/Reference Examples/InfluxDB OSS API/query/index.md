@@ -1,0 +1,1 @@
+{"name":"/query","describes":["/query"],"title":"/query\nInfluxDB OSS API Service","tags":["","query"],"source":"static/openapi/influxdb-oss/influxdb-oss-query.yaml","staticFilePath":"/openapi/influxdb-oss/influxdb-oss-query.yaml","type":"article"}

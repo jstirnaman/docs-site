@@ -1,0 +1,1 @@
+{"name":"/api/v2/templates","describes":["/api/v2/templates/apply","/api/v2/templates/export"],"title":"/api/v2/templates\nInfluxDB Cloud API Service","tags":["api-v2","templates"],"source":"static/openapi/influxdb-cloud/influxdb-cloud-api-v2-templates.yaml","staticFilePath":"/openapi/influxdb-cloud/influxdb-cloud-api-v2-templates.yaml","type":"article"}

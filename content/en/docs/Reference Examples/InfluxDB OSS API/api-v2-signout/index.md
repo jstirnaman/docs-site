@@ -1,0 +1,1 @@
+{"name":"/api/v2/signout","describes":["/api/v2/signout"],"title":"/api/v2/signout\nInfluxDB OSS API Service","tags":["api-v2","signout"],"source":"static/openapi/influxdb-oss/influxdb-oss-api-v2-signout.yaml","staticFilePath":"/openapi/influxdb-oss/influxdb-oss-api-v2-signout.yaml","type":"article"}

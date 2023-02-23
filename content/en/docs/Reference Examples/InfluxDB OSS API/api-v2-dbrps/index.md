@@ -1,0 +1,1 @@
+{"name":"/api/v2/dbrps","describes":["/api/v2/dbrps","/api/v2/dbrps/{dbrpID}"],"title":"/api/v2/dbrps\nInfluxDB OSS API Service","tags":["api-v2","dbrps"],"source":"static/openapi/influxdb-oss/influxdb-oss-api-v2-dbrps.yaml","staticFilePath":"/openapi/influxdb-oss/influxdb-oss-api-v2-dbrps.yaml","type":"article"}

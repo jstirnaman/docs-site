@@ -1,0 +1,1 @@
+{"name":"/api/v2/config","describes":["/api/v2/config"],"title":"/api/v2/config\nInfluxDB OSS API Service","tags":["api-v2","config"],"source":"static/openapi/influxdb-oss/influxdb-oss-api-v2-config.yaml","staticFilePath":"/openapi/influxdb-oss/influxdb-oss-api-v2-config.yaml","type":"article"}

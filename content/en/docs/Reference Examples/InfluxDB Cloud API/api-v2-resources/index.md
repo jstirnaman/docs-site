@@ -1,0 +1,1 @@
+{"name":"/api/v2/resources","describes":["/api/v2/resources"],"title":"/api/v2/resources\nInfluxDB Cloud API Service","tags":["api-v2","resources"],"source":"static/openapi/influxdb-cloud/influxdb-cloud-api-v2-resources.yaml","staticFilePath":"/openapi/influxdb-cloud/influxdb-cloud-api-v2-resources.yaml","type":"article"}

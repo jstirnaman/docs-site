@@ -1,0 +1,1 @@
+{"name":"/api/v2/flags","describes":["/api/v2/flags"],"title":"/api/v2/flags\nInfluxDB OSS API Service","tags":["api-v2","flags"],"source":"static/openapi/influxdb-oss/influxdb-oss-api-v2-flags.yaml","staticFilePath":"/openapi/influxdb-oss/influxdb-oss-api-v2-flags.yaml","type":"article"}
