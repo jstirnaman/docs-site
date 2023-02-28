@@ -11,9 +11,10 @@ menu:
 _Send the Docs!_ is where I experiment with _docs-as-code_ workflows, tooling, and automation to build developer-friendly documentation.
 Find tools and patterns that you can use to improve your project documentation.
 
-My goals for Send the Docs! include the following:
+My goals for Send the Docs! are:
 
-- Practice writing, programming, generating and managing content with Hugo, automating content pipelines, deploying, and SEO.
+- Practice writing and programming.
+- Experiment with Hugo for generating, managing, and deploying content, automating content pipelines, and SEO.
 - Develop templates that structure and render API endpoint documentation in a user-friendly format.
 - Compare free and open-source tools for generating human-friendly documentation from an API specification.
 - Experiment with improving and enhancing documentation with features like code samples, live requests, and dynamic themes.
