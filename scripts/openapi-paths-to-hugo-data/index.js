@@ -40,15 +40,15 @@ const filenamePrefix = `${path.parse(options.file).name}-`;
 
 /* Usage examples
  * 
- node ./scripts/openapi-paths-to-hugo-data/index.js \
+ node ./openapi-paths-to-hugo-data/index.js \
   ./data/influxdb/cloud/openapi.yaml \
   -d ./data/influxdb/cloud/path-apis \
-  -o ./data/article-data/influxdb/cloud/path-apis
+  -o ./data/article-data/influxdb/cloud
 
- node ./scripts/openapi-paths-to-hugo-data/index.js \
+ node ./openapi-paths-to-hugo-data/index.js \
    ./data/influxdb/oss/openapi.yaml \
    -d ./data/influxdb/oss/path-apis \
-   -o ./data/article-data/influxdb/oss/path-apis
+   -o ./data/article-data/influxdb/oss
  *
  */
 
